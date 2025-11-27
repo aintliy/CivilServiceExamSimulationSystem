@@ -1,5 +1,6 @@
 # 无相考试系统 (Interview Exam Demo)
-
+# 公务员考试模拟系统
+该项目只是一个UI界面实现，近似于高保真UI原型设计
 基于 Next.js + Ant Design 构建的公务员面试/笔试培训平台前端高保真原型。
 
 ## 项目介绍
@@ -112,6 +113,4 @@ interview-exam-demo/
 - **字体**: `-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial`
 - **布局**: 响应式栅格布局，适配 PC 与移动端。
 
-## 许可证
 
-MIT
